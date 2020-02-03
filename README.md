@@ -1,6 +1,8 @@
 # sentry-docker-compose
 Easy to install docker by using docker-compose file
 
+refrences: https://github.com/docker-library/docs/tree/master/sentry/
+
 ## Getting Started
 
 ### Prerequisites
